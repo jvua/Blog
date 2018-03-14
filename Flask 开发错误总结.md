@@ -15,3 +15,4 @@ UserWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will b
 track_modifications = app.config.setdefault('SQLALCHEMY_TRACK_MODIFICATIONS', True)
 ```
 
+搞定。👌
