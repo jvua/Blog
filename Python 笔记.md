@@ -143,3 +143,24 @@ Python 中的函数式
 - lambda：匿名函数
 - functools.partial：函数封装
 - functools.wraps：装饰器
+
+闭包作用
+
+- 封装
+- 代码复用
+
+数据结构是基础
+
+二进制：0b
+
+八进制：0o
+
+十六进制：0x
+
+转二进制：bin()
+
+转十进制：int()
+
+转十六进制：hex()
+
+转八进制：oct()
