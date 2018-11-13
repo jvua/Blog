@@ -168,3 +168,28 @@ Python 中的函数式
 得 ASCII 码：ord()
 
 集合 set 可以使用 & | -（与、或、非）
+
+Key：必须是不可变的类型
+
+变量名的开头不能是数字
+
+Python 变量名区分大小写
+
+Int str tuple() 值类型 
+
+list set dict{} 引用类型
+
+字符串 空字符串 False 
+
+[] 空的列表 False
+
+is 两个变量的身份是否相等
+
+== 关系运算符
+
+集合是无序的
+
+not 优先级大于 and 优先级大于 or
+
+
+
