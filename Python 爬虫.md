@@ -34,3 +34,25 @@ BeautifulSoup 中使用 css 选择器：
 - 浏览器发送消息给该网址所在的服务器，这个过程叫做 HTTP Request。
 - 服务器收到浏览器发送的消息后，能够根据浏览器发送消息的内容，做相应处理，然后把消息回传给浏览器。这个过程叫做 HTTP Response。
 - 浏览器收到服务器的 Response 信息后，会对信息进行相应处理，然后展示。
+
+## 怎样解决 JavaScript 渲染的问题？
+
+- 分析 Ajax 请求
+- Selenium/WebDriver
+- Splash
+- PyV8、Ghost.py
+
+## 怎样保存数据？
+
+- 文本
+- 关系型数据库
+- 非关系型数据库
+- 二进制文件
+
+ ## 什么是 Urllib
+
+- Python 内置的 HTTP 请求库
+- urllib.request 请求模块
+- urllib.error 异常处理模块
+- urllib.parse url 解析模块
+- urllib.robotparser robots.txt 解析模块
